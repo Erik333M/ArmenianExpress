@@ -23,7 +23,7 @@ const How = () => {
     return (
         <div className="how-start">
             <h1>How to start</h1>
-            <p>How to make online purchases and get fast and secure in Armenia?</p>
+            <p style={{textAlign:"center"}}>How to make online purchases and get fast and secure in Armenia?</p>
             <div className="icons-div">
             {data.map((e,index) =>{
                 return <div key={index}>
