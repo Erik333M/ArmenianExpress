@@ -8,7 +8,7 @@ const Shopping = () => {
     return (
         <div className="shopping">
             <h1>SHOPPING METHODS AND PRICES TO ARMENIA</h1>
-            <p>Due to the increase in cargo transportation prices, starting from 21.03 for incoming parcels at warehouses the mentioned tariffs will be enacted.</p>
+            <p style={{textAlign:"center"}}>Due to the increase in cargo transportation prices, starting from 21.03 for incoming parcels at warehouses the mentioned tariffs will be enacted.</p>
             <table>
                 <thead>
                     <tr class="price-table-header">
