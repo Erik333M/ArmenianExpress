@@ -1,0 +1,33 @@
+.shopping{
+    margin: 70px 0;
+}
+
+table {
+    width: 100%;
+}
+
+.shopping>p{
+    color: red;
+}
+
+.price-table-header{
+    border-bottom: 1px solid #dbdcdc;
+    color: white;
+    background: black;
+    text-transform: uppercase;
+}
+
+table>thead>tr>th {
+    border: none;
+    padding: 12px;
+    font-size: 12px;
+    text-align: left;
+}
+
+table>tbody>tr>td {
+    text-align: left;
+}
+
+.flag{
+    width: 20px;
+}

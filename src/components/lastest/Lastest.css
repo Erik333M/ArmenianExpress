@@ -1,0 +1,40 @@
+.lastest {
+    margin: 50px 0;
+}
+
+.card-div {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 0;
+}
+
+.cards {
+    border: 1px solid #f2f4fb;
+    border-radius: 0 0px 20px 20px !important;
+    box-shadow: 0 1px 4px 0 rgb(46 61 73 / 10%);
+    position: relative;
+    overflow: hidden;
+}
+
+.cards div{
+    position: absolute;
+    bottom: 0px;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-div button{
+    font-family: inherit;
+    text-align: center;
+    background-color: transparent;
+    border: 1px solid;
+    border-radius: 10px!important;
+    border-color: #5dba2f;
+    color: #5dba2f;
+    text-decoration: none;
+    padding: 20px 50px 20px 50px;
+}

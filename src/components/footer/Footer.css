@@ -1,0 +1,27 @@
+.footer{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+li>a{
+    margin: 10px 0;
+    text-decoration: none;
+    color: #454545 !important
+}
+li{
+    margin: 10px 0;
+    text-align: left !important;
+    list-style: none;
+}
+
+.lang-div {
+    display: flex;
+    justify-content: center;
+}
+
+.lang-div span {
+    margin-left: 10px;
+}
+.us-flag {
+    width: 20px;
+}

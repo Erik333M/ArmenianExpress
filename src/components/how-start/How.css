@@ -1,0 +1,23 @@
+.how-start {
+    border: 1px solid #f2f4fb;
+    border-radius: 20px !important;
+    box-shadow: 0 1px 4px 0 rgb(46 61 73 / 10%);
+    padding: 40px;
+    background: white !important;
+}
+.icons-div{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+
+}
+.icons-div p {
+    margin: 20px 10px;
+    text-align: center;
+    color: #000;
+    font-family: inherit;
+}
+.icons-div svg {
+    fill: #5dba2f;
+    font-size: 70px;
+}

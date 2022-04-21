@@ -1,0 +1,27 @@
+.services h1{
+    font-family: inherit;
+    color: #5dba2f;
+    font-size: 36px;
+}
+.services{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.text-div div{
+    text-align: left;
+    margin: 15px 0;
+}
+
+.text-div span{
+    color: black !important;
+    font-family: inherit;
+}
+
+.text-div svg {
+    width: 25px;
+    height: 25px;
+    margin-bottom: -7px;
+    fill: #5dba2f;
+}
